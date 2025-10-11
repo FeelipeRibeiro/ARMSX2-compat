@@ -63,6 +63,19 @@
       "notes" : "Runs at full speed with no graphical issues",
       "region" : "NTSC-U",
     },
-
+    {
+      "title" : "Gran Turismo 4",
+      "status" : "playable",
+      "title-id" : "SCUS-97328",
+      "notes" : "Runs at full speed, but shadows are slightly broken",
+      "region" : "NTSC-U",
+    },
+    {
+      "title" : "Gran Turismo 4",
+      "status" : "playable",
+      "title-id" : "SCES-51719",
+      "notes" : "Runs at full speed, but shadows are slightly broken",
+      "region" : "PAL-E",
+    },
   ]
 }
