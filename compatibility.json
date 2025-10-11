@@ -28,5 +28,12 @@
       "notes": "Runs at very low speed with a lot of dips in performance",
       "region": "PAL-E"
     },
+    {
+      "title" : "The Godfather Collector's Edition",
+      "status" : "perfect",
+      "title-id" : "SLUS-21406",
+      "notes" : "Runs at full speed with no graphical issues",
+      "regione" : "NTSC-U",
+    },
   ]
 }
