@@ -15,11 +15,11 @@
       "region": "NTSC-U"
     },
     {
-      "title": "God of War",
-      "status": "Perfect",
-      "title-id": "SCUS-97399",
-      "notes": "Runs at full speed with no graphical issues",
-      "region": "NTSC-U"
+      "title": "Hot Wheels Stunt Track Challenge",
+      "status": "In-Game",
+      "title-id": "SLES-52481",
+      "notes": "Runs at very low speed with a lot of dips in performance",
+      "region": "PAL-E"
     },
   ]
 }
