@@ -91,5 +91,12 @@
       "notes" : "Runs at full speed with no graphical issues",
       "region" : "NTSC-U",
     },
+    {
+      "title" : "Tekken 5",
+      "status" : "perfect",
+      "title-id" : "SLUS-21059",
+      "notes" : "Runs at full speed with no graphical issues",
+      "region" : "NTSC-U",
+    },
   ]
 }
