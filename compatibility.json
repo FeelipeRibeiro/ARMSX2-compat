@@ -14,5 +14,12 @@
       "notes": "Hard locks when interacting with save menu, has major graphical glitches with any save box",
       "region": "NTSC-U"
     },
+    {
+      "title": "God of War ",
+      "status": "SCUS-97399",
+      "title-id": "SLUS-21168",
+      "notes": "Runs at full speed with no graphical issues",
+      "region": "NTSC-U"
+    },
   ]
 }
