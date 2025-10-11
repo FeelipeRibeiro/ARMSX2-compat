@@ -77,5 +77,12 @@
       "notes" : "Runs at full speed, but shadows are slightly broken",
       "region" : "PAL-E",
     },
+    {
+      "title" : "Kingdom Hearts II Final Mix",
+      "status" : "perfect",
+      "title-id" : "SLPM-66675",
+      "notes" : "Runs at full speed with no graphical issues",
+      "region" : "NTSC-J",
+    },
   ]
 }
