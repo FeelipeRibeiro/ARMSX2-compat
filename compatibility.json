@@ -84,5 +84,12 @@
       "notes" : "Runs at full speed with no graphical issues",
       "region" : "NTSC-J",
     },
+    {
+      "title" : "Super Dragon Ball Z",
+      "status" : "perfect",
+      "title-id" : "SLUS-21442",
+      "notes" : "Runs at full speed with no graphical issues",
+      "region" : "NTSC-U",
+    },
   ]
 }
