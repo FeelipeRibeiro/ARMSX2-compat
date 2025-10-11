@@ -105,5 +105,12 @@
       "notes" : "Starts with audio but no video; a grey moving image appears where the Radical logo video should be. Then a yellow screen appears during the memory card save prompt.",
       "region" : "NTSC-U",
     },
+    {
+      "title" : "Spartan: Total Warrior",
+      "status" : "perfect",
+      "title-id" : "SLUS-21212",
+      "notes" : "Runs at full speed with no graphical issues",
+      "region" : "NTSC-U",
+    },
   ]
 }
