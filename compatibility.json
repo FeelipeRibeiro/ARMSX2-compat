@@ -39,14 +39,14 @@
       "title" : "Colosseum: Road to Freedom",
       "status" : "perfect",
       "title-id" : "SLES-53356",
-      "notes" : "Generally well emulated, check specific emulator settings for best performance.",
+      "notes" : "Runs at full speed with no graphical issues",
       "region" : "PAL-E",
     },
     {
       "title" : "Colosseum: Road to Freedom",
       "status" : "perfect",
       "title-id" : "SLUS-21179",
-      "notes" : "Generally well emulated, check specific emulator settings for best performance.",
+      "notes" : "Runs at full speed with no graphical issues",
       "region" : "NTSC-U",
     },
   ]
