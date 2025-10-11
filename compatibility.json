@@ -56,5 +56,13 @@
       "notes" : "Runs at full speed with no graphical issues",
       "region" : "NTSC-U",
     },
+    {
+      "title" : "God of War II",
+      "status" : "perfect",
+      "title-id" : "SCUS-97481",
+      "notes" : "Runs at full speed with no graphical issues",
+      "region" : "NTSC-U",
+    },
+
   ]
 }
