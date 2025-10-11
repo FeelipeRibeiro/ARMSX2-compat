@@ -49,5 +49,12 @@
       "notes" : "Runs at full speed with no graphical issues",
       "region" : "NTSC-U",
     },
+    {
+      "title" : "Batman Begins",
+      "status" : "perfect",
+      "title-id" : "SLUS-21198",
+      "notes" : "Runs at full speed with no graphical issues",
+      "region" : "NTSC-U",
+    },
   ]
 }
