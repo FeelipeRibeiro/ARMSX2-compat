@@ -110,6 +110,48 @@
       "status" : "perfect",
       "title-id" : "SLUS-21212",
       "notes" : "Runs at full speed with no graphical issues",
+      "region" : "NTSC-U"
+    },
+    {
+      "title" : "Need For Speed - Underground",
+      "status" : "in-game",
+      "title-id" : "SLUS-20811",
+      "notes" : "Runs at mid speed with notable loss of performance and lots of audio stutters",
+      "region" : "NTSC-U"
+    },
+    {
+      "title" : "Need For Speed - Carbon: Collectors Edition",
+      "status" : "in-game",
+      "title-id" : "SLUS-21494",
+      "notes" : "Running at very low speed with a lot of audio stutters",
+      "region" : "NTSC-U",
+    },
+    {
+      "title" : "Midnight Club 3 - Dub Edition Remix",
+      "status" : "in-game",
+      "title-id" : "SLUS-21355",
+      "notes" : "Runs at good speed but with loss of performance in some areas of the city and some audio stutters",
+      "region": "NTSC-U",
+    },
+    {
+      "title" : "Taz Wanted",
+      "status" : "in-game",
+      "title-id" : "SLUS-20236",
+      "notes" : "Runs at very low speeds with audio stutters",
+      "region" : "NTSC-U",
+    },
+    {
+      "title" : "FlatOut",
+      "status" : "playable",
+      "title-id" : "SLUS-20901",
+      "notes" : "Runs smoothly most of the time with noticeable loss of performance in some areas",
+      "region" : "NTSC-U",
+    },
+    {
+      "title" : "Sonic Riders - Zero Gravity",
+      "status" : "in-game",
+      "title-id" : "SLUS-21642",
+      "notes" : "Runs at very low speeds with lots of audio stutters",
       "region" : "NTSC-U",
     },
   ]
