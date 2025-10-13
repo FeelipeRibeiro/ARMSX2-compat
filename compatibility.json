@@ -125,6 +125,13 @@
       "title-id" : "SLUS-21494",
       "notes" : "Running at very low speed with a lot of audio stutters",
       "region" : "NTSC-U",
+      },
+    {
+    "title": "Yakuza",
+      "status": "Playable",
+      "title-id": "SLES-54171",
+      "notes": "Runs at full speed with A small visual bug ",
+      "region": "PAL"
     },
     {
       "title" : "Midnight Club 3 - Dub Edition Remix",
@@ -163,3 +170,4 @@
     },
   ]
 }
+    
