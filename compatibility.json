@@ -154,5 +154,12 @@
       "notes" : "Runs at very low speeds with lots of audio stutters",
       "region" : "NTSC-U",
     },
+    {
+        "title": "NASCAR Chase for the Cup 2005",
+      "status": "playable",
+      "title-id": "SLUS-21003",
+      "notes": "Runs at very low speed with a lot of dips in performance",
+      "region": "NTSC-U"
+    },
   ]
 }
