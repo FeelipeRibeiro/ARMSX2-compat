@@ -111,6 +111,14 @@
       "title-id" : "SLUS-21212",
       "notes" : "Runs at full speed with no graphical issues",
       "region" : "NTSC-U",
+      },
+    {
+    "title": "Yakuza",
+      "status": "Playable",
+      "title-id": "SLES-54171",
+      "notes": "Runs at full speed with A small visual bug ",
+      "region": "PAL"
     },
   ]
 }
+    
