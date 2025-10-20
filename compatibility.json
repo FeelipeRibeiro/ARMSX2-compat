@@ -169,6 +169,13 @@
       "region": "NTSC-U"
     },
     {
+      "title" : "OutRun 2006 - Coast 2 Coast",
+      "status" : "in-game",
+      "title-id" : "SLES-53998",
+      "notes" : "Runs at very low fps and can't play any races because the car keeps bouncing around"
+      "region" : "PAL-M"
+    },
+    {
       "title": "NASCAR 08",
       "status": "Menu",
       "title-id": "SLUS-21639",
