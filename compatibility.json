@@ -119,5 +119,12 @@
       "notes": "Runs at very low speed with a lot of dips in performance",
       "region": "NTSC-U"
     },
+    {
+      "title": "NASCAR 08",
+      "status": "Menu",
+      "title-id": "SLUS-21639",
+      "notes": "Game crashes whenever you enter a race in any game mode",
+      "region": "NTSC-U"
+    },
   ]
 }
