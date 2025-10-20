@@ -33,77 +33,77 @@
       "status" : "perfect",
       "title-id" : "SLUS-21406",
       "notes" : "Runs at full speed with no graphical issues",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "Colosseum: Road to Freedom",
       "status" : "perfect",
       "title-id" : "SLES-53356",
       "notes" : "Runs at full speed with no graphical issues",
-      "region" : "PAL-E",
+      "region" : "PAL-E"
     },
     {
       "title" : "Colosseum: Road to Freedom",
       "status" : "perfect",
       "title-id" : "SLUS-21179",
       "notes" : "Runs at full speed with no graphical issues",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "Batman Begins",
       "status" : "perfect",
       "title-id" : "SLUS-21198",
       "notes" : "Runs at full speed with no graphical issues",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "God of War II",
       "status" : "perfect",
       "title-id" : "SCUS-97481",
       "notes" : "Runs at full speed with no graphical issues",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "Gran Turismo 4",
       "status" : "playable",
       "title-id" : "SCUS-97328",
       "notes" : "Runs at full speed, but shadows are slightly broken",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "Gran Turismo 4",
       "status" : "playable",
       "title-id" : "SCES-51719",
       "notes" : "Runs at full speed, but shadows are slightly broken",
-      "region" : "PAL-E",
+      "region" : "PAL-E"
     },
     {
       "title" : "Kingdom Hearts II Final Mix",
       "status" : "perfect",
       "title-id" : "SLPM-66675",
       "notes" : "Runs at full speed with no graphical issues",
-      "region" : "NTSC-J",
+      "region" : "NTSC-J"
     },
     {
       "title" : "Super Dragon Ball Z",
       "status" : "perfect",
       "title-id" : "SLUS-21442",
       "notes" : "Runs at full speed with no graphical issues",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "Tekken 5",
       "status" : "perfect",
       "title-id" : "SLUS-21059",
       "notes" : "Runs at full speed with no graphical issues",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "Scarface: The World Is Yours",
       "status" : "in-game",
       "title-id" : "SLUS-21111",
       "notes" : "Starts with audio but no video; a grey moving image appears where the Radical logo video should be. Then a yellow screen appears during the memory card save prompt.",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "Spartan: Total Warrior",
@@ -124,7 +124,7 @@
       "status" : "in-game",
       "title-id" : "SLUS-21494",
       "notes" : "Running at very low speed with a lot of audio stutters",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
       },
     {
     "title": "Yakuza",
@@ -138,28 +138,28 @@
       "status" : "in-game",
       "title-id" : "SLUS-21355",
       "notes" : "Runs at good speed but with loss of performance in some areas of the city and some audio stutters",
-      "region": "NTSC-U",
+      "region": "NTSC-U"
     },
     {
       "title" : "Taz Wanted",
       "status" : "in-game",
       "title-id" : "SLUS-20236",
       "notes" : "Runs at very low speeds with audio stutters",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "FlatOut",
       "status" : "playable",
       "title-id" : "SLUS-20901",
       "notes" : "Runs smoothly most of the time with noticeable loss of performance in some areas",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
       "title" : "Sonic Riders - Zero Gravity",
       "status" : "in-game",
       "title-id" : "SLUS-21642",
       "notes" : "Runs at very low speeds with lots of audio stutters",
-      "region" : "NTSC-U",
+      "region" : "NTSC-U"
     },
     {
         "title": "NASCAR Chase for the Cup 2005",
