@@ -175,6 +175,13 @@
       "notes" : "Runs at very low fps and can't play any races because the car keeps bouncing around"
       "region" : "PAL-M"
     },
+    {
+      "title": "NASCAR 08",
+      "status": "Menu",
+      "title-id": "SLUS-21639",
+      "notes": "Game crashes whenever you enter a race in any game mode",
+      "region": "NTSC-U"
+    },
   ]
 }
     
