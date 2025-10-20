@@ -126,5 +126,11 @@
       "notes": "Game crashes whenever you enter a race in any game mode",
       "region": "NTSC-U"
     },
+    {
+    "title": "NASCAR 09",
+      "status": "Menu",
+      "title-id": "SLUS-21744",
+      "notes": "Game crashes whenever you enter a race in any game mode",
+      "region": "NTSC-U"
   ]
 }
