@@ -181,6 +181,13 @@
       "title-id": "SLUS-21639",
       "notes": "Game crashes whenever you enter a race in any game mode",
       "region": "NTSC-U"
+    },
+    {
+      "title": "Dragon ball Z Budokai tenkaichi 3",
+      "status": "Playable",
+      "title-id": "SLES-54945",
+      "notes": "It runs decently, sometimes in some scenarios the performance minor visual errors.",
+      "region": "PAL"
     }
   ]
 }
