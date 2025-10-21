@@ -183,6 +183,12 @@
       "region": "NTSC-U"
     },
     {
+      "title": "Dragon ball Z Budokai tenkaichi 3",
+      "status": "Playable",
+      "title-id": "SLES-54945",
+      "notes": "It runs decently, sometimes in some scenarios the performance minor visual errors.",
+      "region": "PAL"
+    }
       "title": "NASCAR 09",
       "status": "Menu",
       "title-id": "SLUS-21744",
