@@ -23,21 +23,24 @@ All compatibility entries **must** follow this exact format with all mandatory f
       "status": "Perfect",
       "title-id": "SLUS-20312",
       "notes": "Runs at full speed with no graphical issues",
-      "region": "NTSC-U"
+      "region": "NTSC-U",
+      "tested_socs": ["SD 888"]
     },
     {
       "title": "Kingdom Hearts",
       "status": "Playable",
       "title-id": "SLES-51234",
       "notes": "Minor audio glitches in cutscenes",
-      "region": "PAL"
+      "region": "PAL-E",
+      "tested_socs": ["SD 888"]
     },
     {
       "title": "Metal Gear Solid 2",
       "status": "In-Game",
       "title-id": "SLUS-20312",
       "notes": "Some graphical glitches in certain areas",
-      "region": "NTSC-J"
+      "region": "NTSC-J",
+      "tested_socs": ["SD 888"]
     }
   ]
 }
@@ -53,7 +56,7 @@ Each game entry **must** include all of the following fields:
 | `status` | Compatibility status (see status guide below) | `"Perfect"` |
 | `title-id` | The game's title ID from the disc | `"SLUS-20312"` |
 | `notes` | Detailed compatibility notes | `"Runs at full speed with no graphical issues"` |
-| `region` | Game region | `"NTSC-U"`, `"PAL"`, `"NTSC-J"` |
+| `region` | Game region | `"NTSC-U"`, `"PAL-E"`, `"PAL-A"`, `"NTSC-J"` |
 
 ## Status Guide
 
@@ -70,7 +73,8 @@ Use one of these exact status values:
 Use these standard region codes:
 
 - **NTSC-U** - North America
-- **PAL** - Europe/Australia
+- **PAL-E** - Europe
+- **PAL-A** - Australia
 - **NTSC-J** - Japan
 - **NTSC-K** - Korea
 - **NTSC-C** - China
