@@ -6,7 +6,13 @@
       "title-id": "SLUS-21168",
       "notes": "Runs at full speed with minor dips in performance and minor graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Playable",
+          "opengl_status": "Playable"
+        }
+      ]
     },
     {
       "title": "Castlevania: Lament of Innocence",
@@ -14,7 +20,13 @@
       "title-id": "SLUS-20733",
       "notes": "Hard locks when interacting with save menu, has major graphical glitches with any save box",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "God of War",
@@ -22,7 +34,13 @@
       "title-id": "SCUS-97399",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Hot Wheels Stunt Track Challenge",
@@ -30,7 +48,13 @@
       "title-id": "SLES-52481",
       "notes": "Runs at very low speed with a lot of dips in performance",
       "region": "PAL-E",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "The Godfather Collector's Edition",
@@ -38,7 +62,13 @@
       "title-id": "SLUS-21406",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Colosseum: Road to Freedom",
@@ -46,7 +76,13 @@
       "title-id": "SLES-53356",
       "notes": "Runs at full speed with no graphical issues",
       "region": "PAL-E",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Colosseum: Road to Freedom",
@@ -54,7 +90,13 @@
       "title-id": "SLUS-21179",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Batman Begins",
@@ -62,7 +104,13 @@
       "title-id": "SLUS-21198",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Playable" 
+        }
+      ]
     },
     {
       "title": "God of War II",
@@ -70,7 +118,13 @@
       "title-id": "SCUS-97481",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Gran Turismo 4",
@@ -78,7 +132,13 @@
       "title-id": "SCUS-97328",
       "notes": "Runs at full speed, but shadows are slightly broken",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Playable",
+          "opengl_status": "Playable"
+        }
+      ]
     },
     {
       "title": "Gran Turismo 4",
@@ -86,7 +146,13 @@
       "title-id": "SCES-51719",
       "notes": "Runs at full speed, but shadows are slightly broken",
       "region": "PAL-E",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Playable",
+          "opengl_status": "Playable"
+        }
+      ]
     },
     {
       "title": "Kingdom Hearts II Final Mix",
@@ -94,7 +160,13 @@
       "title-id": "SLPM-66675",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-J",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Super Dragon Ball Z",
@@ -102,7 +174,13 @@
       "title-id": "SLUS-21442",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Tekken 5",
@@ -110,7 +188,13 @@
       "title-id": "SLUS-21059",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Scarface: The World Is Yours",
@@ -118,7 +202,13 @@
       "title-id": "SLUS-21111",
       "notes": "Starts with audio but no video; a grey moving image appears where the Radical logo video should be. Then a yellow screen appears during the memory card save prompt.",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "Spartan: Total Warrior",
@@ -126,7 +216,13 @@
       "title-id": "SLUS-21212",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Need For Speed - Underground",
@@ -134,7 +230,13 @@
       "title-id": "SLUS-20811",
       "notes": "Runs at mid speed with notable loss of performance and lots of audio stutters",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "Need For Speed - Carbon: Collectors Edition",
@@ -142,7 +244,13 @@
       "title-id": "SLUS-21494",
       "notes": "Running at very low speed with a lot of audio stutters",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "Yakuza",
@@ -150,7 +258,13 @@
       "title-id": "SLES-54171",
       "notes": "Runs at full speed with A small visual bug",
       "region": "PAL-E",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Playable",
+          "opengl_status": "Playable"
+        }
+      ]
     },
     {
       "title": "Midnight Club 3 - Dub Edition Remix",
@@ -158,7 +272,13 @@
       "title-id": "SLUS-21355",
       "notes": "Runs at good speed but with loss of performance in some areas of the city and some audio stutters",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "Taz Wanted",
@@ -166,7 +286,13 @@
       "title-id": "SLUS-20236",
       "notes": "Runs at very low speeds with audio stutters",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "FlatOut",
@@ -174,7 +300,13 @@
       "title-id": "SLUS-20901",
       "notes": "Runs smoothly most of the time with noticeable loss of performance in some areas",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Playable",
+          "opengl_status": "Playable"
+        }
+      ]
     },
     {
       "title": "Sonic Riders - Zero Gravity",
@@ -182,7 +314,13 @@
       "title-id": "SLUS-21642",
       "notes": "Runs at very low speeds with lots of audio stutters",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "NASCAR Chase for the Cup 2005",
@@ -190,7 +328,13 @@
       "title-id": "SLUS-21003",
       "notes": "Runs at very low speed with a lot of dips in performance",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "OutRun 2006 - Coast 2 Coast",
@@ -198,7 +342,13 @@
       "title-id": "SLES-53998",
       "notes": "Runs at very low fps and can't play any races because the car keeps bouncing around",
       "region": "PAL-E",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "In-Game",
+          "opengl_status": "In-Game"
+        }
+      ]
     },
     {
       "title": "NASCAR 08",
@@ -206,7 +356,13 @@
       "title-id": "SLUS-21639",
       "notes": "Game crashes whenever you enter a race in any game mode",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Menu",
+          "opengl_status": "Menu"
+        }
+      ]
     },
     {
       "title": "Dragon ball Z Budokai tenkaichi 3",
@@ -214,7 +370,13 @@
       "title-id": "SLES-54945",
       "notes": "It runs decently, sometimes in some scenarios the performance minor visual errors.",
       "region": "PAL-E",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Playable",
+          "opengl_status": "Playable"
+        }
+      ]
     },
     {
       "title": "NASCAR 09",
@@ -222,7 +384,13 @@
       "title-id": "SLUS-21744",
       "notes": "Game crashes whenever you enter a race in any game mode",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Menu",
+          "opengl_status": "Menu"
+        }
+      ]
     },
     {
       "title": "Yu-Gi-Oh! Capsule Monster Coliseum",
@@ -230,7 +398,13 @@
       "title-id": "SLUS-20940",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     }
   ]
 }

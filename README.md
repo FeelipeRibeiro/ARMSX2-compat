@@ -24,7 +24,13 @@ All compatibility entries **must** follow this exact format with all mandatory f
       "title-id": "SLUS-20312",
       "notes": "Runs at full speed with no graphical issues",
       "region": "NTSC-U",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Kingdom Hearts",
@@ -32,7 +38,13 @@ All compatibility entries **must** follow this exact format with all mandatory f
       "title-id": "SLES-51234",
       "notes": "Minor audio glitches in cutscenes",
       "region": "PAL-E",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     },
     {
       "title": "Metal Gear Solid 2",
@@ -40,7 +52,13 @@ All compatibility entries **must** follow this exact format with all mandatory f
       "title-id": "SLUS-20312",
       "notes": "Some graphical glitches in certain areas",
       "region": "NTSC-J",
-      "tested_socs": ["SD 888"]
+      "tested_socs": [
+        {
+          "soc_name": "SD 888",
+          "vulkan_status": "Perfect",
+          "opengl_status": "Perfect"
+        }
+      ]
     }
   ]
 }
