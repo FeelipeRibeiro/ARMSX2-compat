@@ -12,7 +12,8 @@
           "vulkan_status": "Playable",
           "opengl_status": "Playable"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Castlevania: Lament of Innocence",
@@ -26,7 +27,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "God of War",
@@ -40,7 +42,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Hot Wheels Stunt Track Challenge",
@@ -54,7 +57,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.0"
     },
     {
       "title": "The Godfather Collector's Edition",
@@ -68,7 +72,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Colosseum: Road to Freedom",
@@ -82,7 +87,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Colosseum: Road to Freedom",
@@ -96,7 +102,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Batman Begins",
@@ -110,7 +117,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Playable" 
         }
-      ]
+      ],
+      "version": "1.0.2"
     },
     {
       "title": "God of War II",
@@ -124,7 +132,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Gran Turismo 4",
@@ -138,7 +147,8 @@
           "vulkan_status": "Playable",
           "opengl_status": "Playable"
         }
-      ]
+      ],
+      "version": "1.0.2"
     },
     {
       "title": "Gran Turismo 4",
@@ -152,7 +162,8 @@
           "vulkan_status": "Playable",
           "opengl_status": "Playable"
         }
-      ]
+      ],
+      "version": "1.0.2"
     },
     {
       "title": "Kingdom Hearts II Final Mix",
@@ -166,7 +177,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Super Dragon Ball Z",
@@ -180,7 +192,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Tekken 5",
@@ -194,7 +207,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Scarface: The World Is Yours",
@@ -208,7 +222,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.2"
     },
     {
       "title": "Spartan: Total Warrior",
@@ -222,7 +237,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Need For Speed - Underground",
@@ -236,7 +252,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Need For Speed - Carbon: Collectors Edition",
@@ -250,7 +267,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Yakuza",
@@ -264,7 +282,8 @@
           "vulkan_status": "Playable",
           "opengl_status": "Playable"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Midnight Club 3 - Dub Edition Remix",
@@ -278,7 +297,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Taz Wanted",
@@ -292,7 +312,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "FlatOut",
@@ -306,7 +327,8 @@
           "vulkan_status": "Playable",
           "opengl_status": "Playable"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Sonic Riders - Zero Gravity",
@@ -320,7 +342,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "NASCAR Chase for the Cup 2005",
@@ -334,7 +357,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "OutRun 2006 - Coast 2 Coast",
@@ -348,7 +372,8 @@
           "vulkan_status": "In-Game",
           "opengl_status": "In-Game"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "NASCAR 08",
@@ -376,7 +401,8 @@
           "vulkan_status": "Playable",
           "opengl_status": "Playable"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "NASCAR 09",
@@ -390,7 +416,8 @@
           "vulkan_status": "Menu",
           "opengl_status": "Menu"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Yu-Gi-Oh! Capsule Monster Coliseum",
@@ -404,7 +431,8 @@
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.2"
     }
   ]
 }
