@@ -30,7 +30,8 @@ All compatibility entries **must** follow this exact format with all mandatory f
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Kingdom Hearts",
@@ -44,7 +45,8 @@ All compatibility entries **must** follow this exact format with all mandatory f
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     },
     {
       "title": "Metal Gear Solid 2",
@@ -58,7 +60,8 @@ All compatibility entries **must** follow this exact format with all mandatory f
           "vulkan_status": "Perfect",
           "opengl_status": "Perfect"
         }
-      ]
+      ],
+      "version": "1.0.0 Debug"
     }
   ]
 }
